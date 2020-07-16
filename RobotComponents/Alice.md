@@ -1,1 +1,1 @@
-# Components of the Alice Project #
+= Components of the Alice Project =
