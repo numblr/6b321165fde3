@@ -1,1 +1,0 @@
-Components from the Alice project
