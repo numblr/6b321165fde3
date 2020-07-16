@@ -1,1 +1,1 @@
-<<toc /Robot components>>
+<<toc .>
